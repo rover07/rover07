@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vaibhavxyzee" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhavxyzee?logo=twitter&style=for-the-badge" alt="vaibhavxyzee" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter, DSA, Web Development**
 
 - 📝 I regularly write articles on [https://hashnode.com/@rover07](https://hashnode.com/@rover07)
 
@@ -19,10 +19,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/rover07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rover07" height="30" width="40" /></a>
 <a href="https://twitter.com/vaibhavxyzee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhavxyzee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vaibhav-chauhan-332176235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-chauhan-332176235" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21421735" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21421735" height="30" width="40" /></a>
 <a href="https://hashnode.com/@rover07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rover07" height="30" width="40" /></a>
+<a href="https://medium.com/@vaibhavxyzee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vaibhavxyzee" height="30" width="40" /></a>
 <a href="/https://rover07.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rover07.hashnode.dev/" height="30" width="40" /></a>
 </p>
 
