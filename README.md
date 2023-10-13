@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/vaibhavxyzee" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhavxyzee?logo=twitter&style=for-the-badge" alt="vaibhavxyzee" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, DSA, Web Development**
+- 🌱 I’m currently learning **DevOps, DSA, Web Development**
 
-- 📝 I regularly write articles on [https://hashnode.com/@rover07](https://hashnode.com/@rover07)
+- 📝 I sometimes write articles on [https://hashnode.com/@rover07](https://hashnode.com/@rover07)
 
 - 📫 How to reach me **lunaticrealm07@gmail.com**
 
