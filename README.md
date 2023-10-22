@@ -1,5 +1,5 @@
 [![An image of @rover07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rover07)](https://holopin.io/@rover07)
-
+[My Hacksquad Ticket](https://www.hacksquad.dev/ticket/rover07)
 
 <h1 align="center">Hi 👋, I'm Vaibhav Chauhan</h1>
 <h3 align="center">A passionate Tech Enthusiast from India.</h3>
