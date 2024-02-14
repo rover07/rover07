@@ -39,7 +39,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rover07&show_icons=true&theme=highcontrast&locale=en" alt="rover07" /></p>
 <center>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rover07&theme=highcontrast" alt="rover07" /></p>
-</center>center>
+</center>
+
 
 
 [![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rover07&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
