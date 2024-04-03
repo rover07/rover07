@@ -1,11 +1,14 @@
 [![An image of @rover07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rover07)](https://holopin.io/@rover07)
 [![My Hacksquad Ticket](https://www.hacksquad.dev/ticket/rover07)](https://www.hacksquad.dev/ticket/rover07)
 
+
+/*
  <div>
   
  [![rover07's GitHub | Stats](https://stats.quine.sh/rover07/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=rover07)
  [![rover07's GitHub | Languages Over Time](https://stats.quine.sh/rover07/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=rover07)
  </div>
+*/
  
 <h1 align="center">Hi 👋, I'm Vaibhav Chauhan</h1>
 <h3 align="center">A passionate Tech Enthusiast from India.</h3>
